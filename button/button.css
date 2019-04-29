@@ -1,0 +1,29 @@
+button {
+  box-shadow: 0 0 0 2px #8c8c8c;
+  text-transform: uppercase; 
+  border-radius: 3px;
+  text-shadow: 0.5px 0.5px grey;
+  font-weight: bold;
+  margin:2px;
+  border:1px solid #737373;
+  background-color: #cccccc;
+  padding: 2px 5px;
+}
+
+span {
+  color: grey;
+}
+
+div {
+  padding: 1px;
+  border: 1px solid grey;
+  border-radius: 6px;
+  width: 123px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+
+
+
